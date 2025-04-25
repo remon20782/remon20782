@@ -11,11 +11,6 @@
 
 - 📫 How to reach me **remo20782@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/remon-youssef-676ba4164/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://linkedin.com/in/remon-youssef-676ba4164/" height="30" width="40" /></a>
-  
-</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=remon20782&show_icons=true&locale=en&layout=compact" alt="remon20782" /></p>
 
@@ -65,11 +60,9 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/remon20782/remon20782/output/snake.svg" alt="Snake animation" />
 
 ###
-
 
 
 
