@@ -1,17 +1,5 @@
-<div align="center">
-  <a href="https://github.com/remon20782">
-    <img src="./header.gif"  width="100%" alt="Remon Youssef">
-  </a>
-  <br/>
-  <div >
-    <img src="https://readme-typing-svg.demolab.com?font=Kaushan+Script&size=33&duration=2800&pause=2000&color=5CFF71&center=true&vCenter=true&width=970&lines=+I+am+a+FullStack+.NET+Developer+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+; alt="Typing SVG"/>
-  </a>
 
-  </div>
-  
-  <br/>  <br/>
-  <img src="./linewave.gif" width="100%" height="5px">
-  <br/>  <br/>
+<h1 align="center">Hi 👋, I'm Remon Youssef</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=remon20782&label=Profile%20views&color=0e75b6&style=flat" alt="remon20782" /> </p>
 
