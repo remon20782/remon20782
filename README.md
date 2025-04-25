@@ -59,11 +59,6 @@
 
 ###
 
-<br clear="both">
-<img src="https://raw.githubusercontent.com/remon20782/remon20782/output/snake.svg" alt="Snake animation" />
-
-###
-
 
 
 
